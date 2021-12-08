@@ -1,0 +1,53 @@
+pre, code { 
+    font-family: Hack, monospace; 
+}
+
+body {
+    font: 18px Hack;
+    color: #FFFFFF;
+    background-color: #000000;
+}
+
+#map {
+    position: absolute;
+    left: 40px;
+    width: 550px;
+    height: 900px;
+    border: 1px solid white;
+    background-color: #1e1e1e;
+}
+
+#control {
+    position: absolute;
+    left: 610px;
+    width: 700px;
+    height: 240px;
+    border: 1px solid white;
+    background-color: #1e1e1e;
+}
+
+#parallel {
+    position: absolute;
+    left: 1330px;
+    width: 550px;
+    height: 900px;
+    border: 1px solid white;
+    background-color: #1e1e1e;
+}
+
+#radar {
+    position: absolute;
+    left: 610px;
+    top: 270px;
+    width: 700px;
+    height: 640px;
+    border: 1px solid white;
+    background-color: #1e1e1e;
+}
+
+#play-button {
+    position: absolute;
+    top: 210px;
+    left: 930px;
+    background: #FFFFFF;
+}
